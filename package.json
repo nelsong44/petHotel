@@ -1,0 +1,27 @@
+{
+  "name": "pethotel",
+  "version": "1.0.0",
+  "description": "Your team has started a new business in Uptown for dog-enthusiasts that also need to vacation without their beloved pets.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "pg": "^6.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekyBrewster/petHotel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekyBrewster/petHotel/issues"
+  },
+  "homepage": "https://github.com/geekyBrewster/petHotel#readme"
+}
